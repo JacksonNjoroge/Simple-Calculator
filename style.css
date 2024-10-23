@@ -60,6 +60,8 @@ body {
 .key:active,
 .key:focus {
     background: #3b3f48;
+    border: none;
+    outline: none;
     box-shadow: inset 3px 3px 3px #17181c, inset -3px -3px 3px #676e7e;
 }
 
